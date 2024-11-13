@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Sum_of_Digits_Until_Single_Digit_14 {
+public class Sum_of_Digits_odd_even_19 {
 
    public static void method(int num){
         int odd=0,even=0,sum=0,n;

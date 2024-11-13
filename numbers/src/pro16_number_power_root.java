@@ -24,12 +24,7 @@ public class pro16_number_power_root
         System.out.println("enter a number");
         Scanner sc = new Scanner(System.in);
         int num = sc.nextInt();
-        if(def(num)){
-            System.out.println("true");
-        }
-else {
-            System.out.println("false");
-        }
+        System.out.println(def(num));
 
 
 
